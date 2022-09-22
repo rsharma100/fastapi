@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pydantic
+pydantic[email]
+PyJWT
+python-decouple
+bson
+pymongo
+pymongo[srv]
+lxml
